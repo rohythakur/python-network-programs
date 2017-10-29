@@ -1,2 +1,2 @@
 # python-network-programs
-python network programs. Programs written in python for networking purposes
+simple chat server created with the help of python to transfer messages instantly over the network
